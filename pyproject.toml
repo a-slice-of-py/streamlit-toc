@@ -1,0 +1,4 @@
+# SEE: https://setuptools.pypa.io/en/latest/userguide/quickstart.html?highlight=pyproject#basic-use
+[build-system]
+requires = ["setuptools>=41", "wheel", "setuptools-git-versioning"]
+build-backend = "setuptools.build_meta"
